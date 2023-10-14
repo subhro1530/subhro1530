@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Shaswata Saha
-- 👀 I’m interested in Cybersecurity and Software Development
-- 🌱 I’m currently learning Software development in University of Calcutta CSE.
-- 💞️ I’m looking to collaborate on AI, IOT, coding and other software related stuffs.
-- 📫 How to reach me: Email: shaswata.ssaha@gmail.com
-- My Website : https://acodernamedsubhro.web.app/
+[![An image of @subhro1530's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhro1530)](https://holopin.io/@subhro1530)
 
-<!---
-subhro1530/subhro1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=subhro1530&theme=dark&starting_year=2022)](https://git.io/streak-stats)
+![Subhro's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhro1530&show_icons=true&theme=dracula)
