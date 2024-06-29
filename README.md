@@ -153,7 +153,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="tailwind" width="25" height="40"/>
+  </a>
 </p>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/subhro1530/subhro1530/output/github-contribution-grid-snake.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhro1530&show_icons=true&locale=en&layout=compact" alt="subhro1530" /></p>
 
