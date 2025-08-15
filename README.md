@@ -18,6 +18,10 @@
 
 <br>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1663965" style='border:none;'></iframe>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=subhro1530" alt="subhro1530" />
